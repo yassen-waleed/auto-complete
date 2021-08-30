@@ -1,0 +1,12 @@
+.button {
+    -fx-background-color:#e4795b;
+
+    -fx-border-color :#282828;
+    -fx-border-radius :1em;
+    -fx-border-width :2;
+    -fx-font-family :Times New Roman;
+}
+.button:hover {
+    -fx-background-color: #9e881c;
+
+}
